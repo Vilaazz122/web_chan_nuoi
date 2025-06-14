@@ -1,0 +1,45 @@
+.header {
+  background: #2c3e50;
+  color: white;
+  padding: 20px;
+  text-Align: center;
+}
+
+.nav {
+  background: #34495e;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.nav a {
+  display: inline-block;
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  background-color: #1abc9c;
+}
+
+.section {
+  padding: 20px;
+}
+
+.product {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.footer {
+  background: #2c3e50;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+input, textarea {
+  width: 100%;
+  margin-bottom: 10px;
+}
